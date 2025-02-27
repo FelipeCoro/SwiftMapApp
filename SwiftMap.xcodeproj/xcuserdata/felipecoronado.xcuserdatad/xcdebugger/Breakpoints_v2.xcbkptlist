@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA30741E-56B0-44CB-8383-F141A1BB189D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B51F4B1B-A643-4748-82F9-A2A5EA3FB9F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftMap/ViewModels/LocationsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "updateMapRegion(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B51F4B1B-A643-4748-82F9-A2A5EA3FB9F7 - 761abb20a364fbec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in SwiftMap.LocationsViewModel.updateMapRegion(location: SwiftMap.Location) -&gt; ()"
+                  moduleName = "SwiftMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felipecoronado/StudioProjects/SwiftMap/SwiftMap/ViewModels/LocationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "B51F4B1B-A643-4748-82F9-A2A5EA3FB9F7 - 761abb20a364faf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in SwiftMap.LocationsViewModel.updateMapRegion(location: SwiftMap.Location) -&gt; ()"
+                  moduleName = "SwiftMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felipecoronado/StudioProjects/SwiftMap/SwiftMap/ViewModels/LocationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
